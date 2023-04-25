@@ -8,7 +8,7 @@ Determining the ranking of universities worldwide is quite complex and involves 
 (-) What is the relationship pattern between world rank, publications, score, and education quality variables?
 
 ## Data Set
-The historical world universities rankings data set from 2012 to 2015 was drawn from the website Kaggle.
+The historical world universities rankings [data set](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings) from 2012 to 2015 was drawn from the website Kaggle.
 
 ## Data Visualization
-Data Visualization using Tableau
+Data Visualization using [Tableau](https://public.tableau.com/shared/6RBX4CDK5?:display_count=n&:origin=viz_share_link)
