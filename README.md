@@ -9,3 +9,6 @@ Determining the ranking of universities worldwide is quite complex and involves 
 
 ## Data Set
 The historical world universities rankings data set from 2012 to 2015 was drawn from the website Kaggle.
+
+## Data Visualization
+Data Visualization using Tableau
